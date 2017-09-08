@@ -1,0 +1,28 @@
+@{
+    DateTime currentDate = DateTime.Now;
+    <!-- string formattedDate = String.Format("{0:MMM d, yyyy}", currentDate);
+    string formattedTime = String.Format("{0:hh:mm tt}", currentDate); -->
+    string date = currentDate.ToString("MMM d, yyyy");
+    string time = currentDate.ToString("H:mm");
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Date and Time</title>
+    <style>
+        #box{
+            border: solid 2px black;
+        }
+    </style>
+</head>
+<body>
+    <h3>The Current Time and Date:</h3>
+    <div id="box">
+        <h2>@date</h2>
+        <h1>@time</h1>
+    </div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/TimeDisplay/bin/Debug/netcoreapp1.1/TimeDisplay.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/TimeDisplay/bin/Debug/netcoreapp1.1/TimeDisplay.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/TimeDisplay/bin/Debug/netcoreapp1.1/TimeDisplay.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/TimeDisplay/bin/Debug/netcoreapp1.1/TimeDisplay.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/TimeDisplay/bin/Debug/netcoreapp1.1/TimeDisplay.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/TimeDisplay/obj/Debug/netcoreapp1.1/TimeDisplay.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/TimeDisplay/obj/Debug/netcoreapp1.1/TimeDisplay.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/TimeDisplay/obj/Debug/netcoreapp1.1/TimeDisplay.pdb
